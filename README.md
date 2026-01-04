@@ -24,8 +24,7 @@ Detect fraudulent credit card transactions using machine learning models, with a
 - F1-Score (fraud class)
 
 ### Tools
-Python, scikit-learn, imbalanced-learn, XGBoost, pandas, numpy, matplotlib, seaborn
-(Google Colab and Local Jupyter Notebook)
+Python, scikit-learn, imbalanced-learn, XGBoost, pandas, numpy, matplotlib, seaborn, Google Colab, and Jupyter Notebook
 
 ### Key Result
 - Logistic Regression achieved high recall but generated a large number of false positives.
