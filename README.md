@@ -19,9 +19,9 @@ Detect fraudulent credit card transactions using machine learning models, with a
 
 ### Evaluation Metrics
 - PR-AUC (primary metric)
-- Precision (fraud class)
-- Recall (fraud class)
-- F1-Score (fraud class)
+- Precision (class 1)
+- Recall (class 1)
+- F1-Score (class 1)
 
 ### Tools
 Python, scikit-learn, imbalanced-learn, XGBoost, pandas, numpy, matplotlib, seaborn, Google Colab, and Jupyter Notebook
